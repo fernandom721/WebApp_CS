@@ -1,0 +1,8 @@
+C:\Users\Fernando Martinez\source\repos\WebApplication2\WebApplication2.Dominio\bin\Debug\netcoreapp3.1\WebApplication2.Dominio.deps.json
+C:\Users\Fernando Martinez\source\repos\WebApplication2\WebApplication2.Dominio\bin\Debug\netcoreapp3.1\WebApplication2.Dominio.dll
+C:\Users\Fernando Martinez\source\repos\WebApplication2\WebApplication2.Dominio\bin\Debug\netcoreapp3.1\WebApplication2.Dominio.pdb
+C:\Users\Fernando Martinez\source\repos\WebApplication2\WebApplication2.Dominio\obj\Debug\netcoreapp3.1\WebApplication2.Dominio.AssemblyInfoInputs.cache
+C:\Users\Fernando Martinez\source\repos\WebApplication2\WebApplication2.Dominio\obj\Debug\netcoreapp3.1\WebApplication2.Dominio.AssemblyInfo.cs
+C:\Users\Fernando Martinez\source\repos\WebApplication2\WebApplication2.Dominio\obj\Debug\netcoreapp3.1\WebApplication2.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Martinez\source\repos\WebApplication2\WebApplication2.Dominio\obj\Debug\netcoreapp3.1\WebApplication2.Dominio.dll
+C:\Users\Fernando Martinez\source\repos\WebApplication2\WebApplication2.Dominio\obj\Debug\netcoreapp3.1\WebApplication2.Dominio.pdb

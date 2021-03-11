@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebApplication2.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/WebApplication2.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebApplication2.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApplication2.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../WebApplication2.Dominio/WebApplication2.Dominio.csproj",
+      "msbuildProject": "../WebApplication2.Dominio/WebApplication2.Dominio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "WebApplication2.Dominio >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Fernando Martinez\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Fernando Martinez\\source\\repos\\WebApplication2\\WebApplication2.presentacion\\WebApplication2.presentacion.csproj",
+      "projectName": "WebApplication2.presentacion",
+      "projectPath": "C:\\Users\\Fernando Martinez\\source\\repos\\WebApplication2\\WebApplication2.presentacion\\WebApplication2.presentacion.csproj",
+      "packagesPath": "C:\\Users\\Fernando Martinez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fernando Martinez\\source\\repos\\WebApplication2\\WebApplication2.presentacion\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Fernando Martinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Fernando Martinez\\source\\repos\\WebApplication2\\WebApplication2.Dominio\\WebApplication2.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Fernando Martinez\\source\\repos\\WebApplication2\\WebApplication2.Dominio\\WebApplication2.Dominio.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
